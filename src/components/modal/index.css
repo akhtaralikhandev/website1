@@ -1,0 +1,14 @@
+.modal {
+  height: 200px;
+  position: relative;
+}
+
+.full {
+  height: 400px;
+  position: relative;
+}
+.x {
+  position: absolute;
+  top: 0;
+  right: 30%;
+}
